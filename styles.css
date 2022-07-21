@@ -1,0 +1,14 @@
+body{
+    background-color:black;
+    color:white;
+    margin:0;
+    
+}
+
+.container{
+    background-color: #333;
+    color:white;
+    border:1px solid #333;
+    margin: auto;
+    padding:5px;
+}
